@@ -1,5 +1,7 @@
 # lulcc-goldens
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23866776.svg)](https://doi.org/10.5281/zenodo.23866776)
+
 Reference outputs ("goldens") of the R package **lulcc 1.0.4** for the
 Plum Island Ecosystems application in
 
@@ -125,7 +127,9 @@ is the only change to the published demo.
 
 ## Citation
 
-See `CITATION.cff`; the archived release has a DOI on Zenodo. Please also cite
+v0.1.0 is archived on Zenodo:
+[doi:10.5281/zenodo.23866776](https://doi.org/10.5281/zenodo.23866776). See also
+`CITATION.cff`. Please also cite
 Moulds et al. (2015) and, for the `pie` data set, Pontius & Parmentier (2014).
 
 ## Licence

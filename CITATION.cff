@@ -27,6 +27,7 @@ authors:
     given-names: Samylli Kalei Silva
     affiliation: Universidade Federal do Maranhão (UFMA)
     orcid: "https://orcid.org/0009-0009-6490-4459"
+doi: "10.5281/zenodo.23866776"
 repository-code: "https://github.com/LambdaGeo/lulcc-goldens"
 license: GPL-3.0-or-later
 version: 0.1.0
