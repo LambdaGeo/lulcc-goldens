@@ -30,7 +30,7 @@ authors:
 repository-code: "https://github.com/LambdaGeo/lulcc-goldens"
 license: GPL-3.0-or-later
 version: 0.1.0
-date-released: 2026-10-26
+date-released: 2026-11-01
 keywords:
   - land use change
   - CLUE-S
